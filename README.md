@@ -8,7 +8,7 @@ Directions: <br>
 - Save bot.py and .env to one folder <br>
 - Open up the fucking uh Windows Powershell <br>
 - you'll need to go to the directory of where you saved the bot.py and .env file so type <br>
-<br>
+
 
 ```markdown
 cd "the path of your folder directory"
